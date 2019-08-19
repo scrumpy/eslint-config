@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-scrumpy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scrumpy/eslint-config.git"
+  },
+  "author": "Philipp Kühn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scrumpy/eslint-config/issues"
+  },
+  "homepage": "https://github.com/scrumpy/eslint-config#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.2.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "^5.2.3"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.2.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-vue": "^5.2.3"
+  }
+}
